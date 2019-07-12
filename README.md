@@ -1,5 +1,5 @@
 # Flex demo (Skylab-Houses)
-TODO: Write a project description
+
 ## Installation
 ```
 git clone https://github.com/carlosq09/flex-demo-skylab-houses.git

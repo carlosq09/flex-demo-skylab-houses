@@ -7,7 +7,7 @@ git clone https://github.com/carlosq09/flex-demo-skylab-houses.git
  
 ## Description
 
-its a guide of flex with a simple demo with little houses that you can create, use the examples with the listed classes and practice your flex skils!
+its a guide of flex with a simple demo with little houses that you can create, use the examples with the listed classes and practice your flex skills!
 
 ## Usage
 open in the browser the index.html
